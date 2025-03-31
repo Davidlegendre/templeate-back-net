@@ -27,7 +27,7 @@ Este es un template de proyecto en .NET diseñado para acelerar el desarrollo y 
 ## 🎯 Instalación y Uso
 
 ### **1. Instalar la plantilla en .NET CLI**
-
+#### en el proyecto, clonarlo y realizar:
 ```sh
 dotnet new --install ./
 ```
@@ -35,13 +35,13 @@ dotnet new --install ./
 ### **2. Crear un nuevo proyecto con la plantilla**
 
 ```sh
-dotnet new miwebapi -o MiNuevoProyecto
+dotnet new backwebapi -o tuProjectName
 ```
 
 ### **3. Ejecutar el proyecto**
 
 ```sh
-cd MiNuevoProyecto
+cd tuProjectName
 dotnet run
 ```
 ## 🛠 Personalización
