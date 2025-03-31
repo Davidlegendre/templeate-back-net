@@ -1,10 +1,10 @@
 {
-    "author": "David Legendre",
-    "classifications": [ "WebAPI", "Plantilla" ],
-    "name": "templeate-back-dotnet WebAPI",
-    "identity": "DFLA.Plantilla.WebAPI",
-    "shortName": "backwebapi",
-    "tags": { "language": "C#" },
-    "sourceName": "templeate-back-dotnet"
-  }
-  
+  "$schema": "http://json.schemastore.org/template",
+  "author": "David Legendre",
+  "classifications": ["Web", "API", "Clean Architecture"],
+  "name": "Plantilla BackEnd WebAPI",
+  "identity": "DFLA.Plantilla.WebAPI",
+  "shortName": "backwebapi",
+  "sourceName": "template-dotnet-main",
+  "preferNameDirectory": true
+}
