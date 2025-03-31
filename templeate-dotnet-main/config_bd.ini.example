@@ -1,0 +1,11 @@
+﻿[Connection_DB]
+EsServerDev=0 es Prod, 1 es Dev
+Dev_BDX="coneccion bd en base 64"
+Prod_BDX="coneccion bd en base 64"
+Dev_BDX2="coneccion bd en base 64"
+Prod_BDX2="coneccion bd en base 64"
+
+[AppSettings]
+SecretKey="SECRET KEY JWT"
+ValidIssuer=https://localhost:44366
+ValidAudience=https://localhost:44366
