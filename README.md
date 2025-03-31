@@ -1,6 +1,6 @@
 # .NET Project Template
 
-![.NET](https://img.shields.io/badge/.NET-6.0-blue.svg)
+![.NET](https://img.shields.io/badge/.NET-8.0-blue.svg)
 
 Este es un template de proyecto en .NET diseñado para acelerar el desarrollo y estandarizar la estructura del código.
 
