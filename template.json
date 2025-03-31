@@ -1,0 +1,9 @@
+{
+    "author": "David Legendre",
+    "classifications": [ "WebAPI", "Plantilla" ],
+    "name": "templeate-back-dotnet WebAPI",
+    "identity": "DFLA.Plantilla.WebAPI",
+    "shortName": "backwebapi",
+    "tags": { "language": "C#" },
+    "sourceName": "templeate-back-dotnet"
+  }
